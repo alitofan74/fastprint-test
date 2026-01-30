@@ -3,11 +3,6 @@
 Aplikasi ini adalah **web application berbasis Laravel** yang digunakan untuk **mengelola data produk gudang** dengan fitur **sinkronisasi data dari API Fastprint**.  
 Data yang disinkronkan akan disimpan ke dalam database dan dikelompokkan berdasarkan **produk, kategori, dan status**.
 
-Aplikasi ini dibuat agar developer lain dapat dengan mudah memahami:
-- Tujuan aplikasi
-- Struktur dasar project
-- Cara instalasi hingga aplikasi berjalan di local machine
-
 ---
 
 ## 🚀 Tech Stack
